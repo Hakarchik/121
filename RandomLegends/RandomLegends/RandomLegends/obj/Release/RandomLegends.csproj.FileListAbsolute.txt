@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\bin\Release\RandomLegends.exe.config
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\bin\Release\RandomLegends.exe
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\bin\Release\RandomLegends.pdb
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.RandomLegends.resources
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.Properties.Resources.resources
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.exe
+C:\Users\Никита\Desktop\RandomLegends\RandomLegends\RandomLegends\obj\Release\RandomLegends.pdb
